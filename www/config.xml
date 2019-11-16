@@ -23,7 +23,6 @@
 	<plugin name="cordova-plugin-crosswalk-webview" source="npm" />
 
 	<plugin name="cordova-plugin-wkwebview-engine" />
-	<plugin name="cocoon-plugin-ads-android-admob" espec='^1.0.12" />
 	<plugin name="cordova-plugin-file" />
 	<plugin name="cordova-plugin-httpd" />
 
